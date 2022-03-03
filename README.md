@@ -9,13 +9,13 @@ everything listed here correctly.
 
 For reference, I am using python 3.8 for this specific project
 
-import streamlit as st
-import pandas as pd
-import base64
-import matplotlib.pyplot as plt
-import seaborn as sns
-import numpy as np
-import yfinance as yf
+* import streamlit as st
+* import pandas as pd
+* import base64
+* import matplotlib.pyplot as plt
+* import seaborn as sns
+* import numpy as np
+* import yfinance as yf
 
 # Final Product
 At the end you should have this
