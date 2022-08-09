@@ -1,7 +1,7 @@
-import streamlit as st
-import pandas as pd
-import base64
-import matplotlib.pyplot as plt
-import seaborn as sns
-import numpy as np
-import yfinance as yf
+streamlit as st == 1.5
+pandas == 1.4
+base64 == 0.1
+matplotlib == 3.5
+seaborn == 0.11
+numpy == 1.19
+yfinance == 0.1.64
